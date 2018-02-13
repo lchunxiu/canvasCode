@@ -1,0 +1,24 @@
+{
+  "name": "canvascode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lchunxiu/canvasCode.git"
+  },
+  "keywords": [
+    "html5",
+    "canvas",
+    "firework"
+  ],
+  "author": "xiaoxiuchunzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lchunxiu/canvasCode/issues"
+  },
+  "homepage": "https://github.com/lchunxiu/canvasCode#readme"
+}
